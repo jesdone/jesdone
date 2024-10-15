@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jesdone
-- 👀 I’m interested in Frontend Development, Product Design, UX/UI Design
-- 🌱 I’m currently learning React, Figma, Prisma, Docker
-- 💞️ I’m looking to collaborate on UX/UI Design and Front End Development
+- 👀 I’m interested in Frontend Development, Product Design
+- 💞️ I’m looking to collaborate on coding and design
 - 📫 How to reach me @jesd_45984 on Discord
 
 <!---
